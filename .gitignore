@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+*.vscode/
+*.idea/
+
+# Ignore all files in simulations except .py and .ipynb
+simulations/*
+!simulations/*.py
+!simulations/*.ipynb
+
+# Ignore Jupyter Notebook checkpoints only inside simulations
+simulations/.ipynb_checkpoints/
+
+# Keep plots and CSVs folders tracked
+!plots/
+!csvs/
