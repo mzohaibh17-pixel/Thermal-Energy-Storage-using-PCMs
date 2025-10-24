@@ -24,8 +24,8 @@ Thermal-Energy-Storage-using-PCMs/
 │
 ├── plots/
 ├── simulations/
-│ 		├── Thermal-Energy-Storage-using-PCMs.py
-│ 		└── Thermal-Energy-Storage-using-PCMs.ipynb
+│ 	├── Thermal-Energy-Storage-using-PCMs.py
+│ 	└── Thermal-Energy-Storage-using-PCMs.ipynb
 ├── csvs/
 ├── requirements.txt
 ├── .gitignore
